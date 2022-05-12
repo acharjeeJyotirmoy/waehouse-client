@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Product1",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.aU7Jgbq_RC8__leAEkrv0QD6D6%26pid%3DApi&f=1",
+        "description": "",
+        "price": 420,
+        "quantity": 2,
+        "supplier": "Johnson"
+    },
+    {
+        "name": "Product2",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.X0oPgcTihPshxikPxe5Z7wHaEK%26pid%3DApi&f=1",
+        "description": "",
+        "price": 420,
+        "quantity": 2,
+        "supplier": "Adidas"
+    },
+    {
+        "name": "Product3",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.vteG8wPAGJ7qUkN4pLgsYAHaE0%26pid%3DApi&f=1",
+        "description": "",
+        "price": 420,
+        "quantity": 2,
+        "supplier": "RFL"
+    },
+    {
+        "name": "Product4",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.oCy382baxTlqLax-K1ybCwHaGB%26pid%3DApi&f=1",
+        "description": "",
+        "price": 420,
+        "quantity": 2,
+        "supplier": "Pran"
+    },
+    {
+        "name": "Product5",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.2PCgAMURMMyy6iUi2k52agHaEK%26pid%3DApi&f=1",
+        "description": "",
+        "price": 420,
+        "quantity": 2,
+        "supplier": "Nevia"
+    },
+    {
+        "name": "Product6",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.zm2HhYX5NJFrsbvGBXDWpAHaE8%26pid%3DApi&f=1",
+        "description": "",
+        "price": 420,
+        "quantity": 2,
+        "supplier": "Fair and lovely"
+    },
+    {
+        "name": "Product7",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.y_K0vnhituzQD0ZuYmmtigHaHh%26pid%3DApi&f=1",
+        "description": "",
+        "price": 420,
+        "quantity": 2,
+        "supplier": "Johnson"
+    },
+    {
+        "name": "Product8",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.a2Nh736culD_BkVgVzUQRAHaD2%26pid%3DApi&f=1",
+        "description": "",
+        "price": 420,
+        "quantity": 2,
+        "supplier": "Dove"
+    },
+    {
+        "name": "Product9",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.spho0AKbrbhcKy1On_H3tAHaFf%26pid%3DApi&f=1",
+        "description": "",
+        "price": 420,
+        "quantity": 2,
+        "supplier": "Clear Man"
+    },
+    {
+        "name": "Product10",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Mndv6Ca_QS0KfMK1PL3xAgHaGc%26pid%3DApi&f=1",
+        "description": "",
+        "price": 420,
+        "quantity": 2,
+        "supplier": "Dove"
+    },
+    {
+        "name": "Product11",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.biiSMKXVeXR5FCLjkk6InQHaD4%26pid%3DApi&f=1",
+        "description": "",
+        "price": 420,
+        "quantity": 2,
+        "supplier": "RFL"
+    },
+    {
+        "name": "Product12",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.mnS11PFkrAVOf7QhTRPsYgHaD4%26pid%3DApi&f=1",
+        "description": "",
+        "price": 420,
+        "quantity": 2,
+        "supplier": "Nevia"
+    }
+]
